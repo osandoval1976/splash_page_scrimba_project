@@ -56,7 +56,7 @@ p {
 .fine-print {
     font-size: 0.75rem;
     letter-spacing: 1px;
-    color: #a753df73;
+    color: #9c999e73;
 }
 
 /* =================
@@ -118,7 +118,7 @@ button {
 input {
     padding: 0.5em;
     margin-bottom: 0.75em;
-    border: 2px solid #d1d5db;
+    border: 2px solid #afaab4;
 }
 
 input:focus {
@@ -144,7 +144,7 @@ input:focus {
 
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: #b7a7f6;
+    background-color: #915ba1;
 }
 
 /* =================
